@@ -1,1 +1,1 @@
-Aplicativo de lista de tarefas.
+Aplicativo de lista de tarefas feito com react-native.
